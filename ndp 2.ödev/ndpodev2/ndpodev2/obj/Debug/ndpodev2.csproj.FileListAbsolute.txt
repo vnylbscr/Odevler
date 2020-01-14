@@ -1,0 +1,24 @@
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\bin\Debug\ndpodev2.exe.config
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\bin\Debug\ndpodev2.exe
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\bin\Debug\ndpodev2.pdb
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.Form1.resources
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.Properties.Resources.resources
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.verigiriskutulari.resources
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.csproj.GenerateResource.Cache
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.exe
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.pdb
+C:\Users\ABRA\source\repos\ndpodev2\ndpodev2\obj\Debug\ndpodev2.KayitListeleme.resources
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\bin\Debug\ndpodev2.exe.config
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\bin\Debug\ndpodev2.exe
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\bin\Debug\ndpodev2.pdb
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.csprojResolveAssemblyReference.cache
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.Form1.resources
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.KayitListeleme.resources
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.Properties.Resources.resources
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.verigiriskutulari.resources
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.csproj.GenerateResource.cache
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.csproj.CoreCompileInputs.cache
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.exe
+C:\Users\ABRA\Desktop\DERS\Programlama 2.Dönem\ndp 2.ödev\ndpodev2\ndpodev2\obj\Debug\ndpodev2.pdb
