@@ -1,0 +1,4 @@
+ödev türkçe karakterlerde sıkıntı 
+çıkarmıyor fakat türkçe karakteri konsolda 
+gösterirken değişik semboller çıkıyor. bu yüzden icerik.txt'de
+türkçe karakter yok.
