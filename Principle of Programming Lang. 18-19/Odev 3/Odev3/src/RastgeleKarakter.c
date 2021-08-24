@@ -4,14 +4,11 @@
 /*
 @Mert Genç 09.04.2019 NO:b161210045  ©
 
-@Emirhan Erdoğu NO:g161210003 ©
-
 
 
 SAU CS
 
 mail: mert.genc1@ogr.sakarya.edu.tr
-mail: emirhan.erdogu@ogr.sakarya.edu.tr
 
 */
 
