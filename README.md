@@ -1,2 +1,2 @@
 # Odevler
-some homeworks i made while at university
+Projects that I have done throughout my university.
